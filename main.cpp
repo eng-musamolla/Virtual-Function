@@ -12,7 +12,7 @@ public:
 
 class Cat : public Animal {
 public:
-  void sound() override { cout << "Cat is meowing." << endl; }
+  void sound() override { cout << "Cat is meowing.." << endl; }
 };
 
 int main() {
